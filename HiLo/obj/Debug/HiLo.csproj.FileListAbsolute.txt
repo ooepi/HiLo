@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\obj\Debug\HiLo.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\obj\Debug\HiLo.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\bin\Debug\HiLo.exe.config
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\bin\Debug\HiLo.exe
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\bin\Debug\HiLo.pdb
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\obj\Debug\HiLo.exe
+C:\Users\rober\OneDrive\projects\cs\HiLo\HiLo\obj\Debug\HiLo.pdb
